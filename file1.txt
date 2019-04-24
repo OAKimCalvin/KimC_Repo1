@@ -1,2 +1,2 @@
-Add some text
+Updated some text
 Another line of text
